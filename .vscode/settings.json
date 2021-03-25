@@ -15,5 +15,8 @@
         "titleBar.inactiveBackground": "#33515c99",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#33515c"
+    "peacock.color": "#33515c",
+    "cSpell.words": [
+        "respawn"
+    ]
 }
